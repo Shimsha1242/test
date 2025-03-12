@@ -4,4 +4,6 @@ This is test for merging.
 Another line for second commit 
 
 
-Another line added
+Another line added 
+
+lets conflict
