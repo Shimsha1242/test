@@ -16,7 +16,11 @@ Another line for second commit
 
 Another line added
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 8b11e73 (another commit)
 >>>>>>> 7f9b07d (file added)
 =======
 >>>>>>> ee7e563 (hello file added)
+=======
+let me add another line
+>>>>>>> d0dae9c (i added onemore line)
