@@ -10,12 +10,13 @@ Another line added
 lets conflict
 =======
 i added a new line
-<<<<<<< HEAD
-=======
 This is test for merging.
 Another line for second commit
 
 
 Another line added
+<<<<<<< HEAD
 >>>>>>> 8b11e73 (another commit)
 >>>>>>> 7f9b07d (file added)
+=======
+>>>>>>> ee7e563 (hello file added)
