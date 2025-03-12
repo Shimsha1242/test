@@ -1,5 +1,6 @@
 This line is new line on main 
 this is new line
+<<<<<<< HEAD
 This is test for merging.
 Another line for second commit 
 
@@ -7,3 +8,14 @@ Another line for second commit
 Another line added 
 
 lets conflict
+=======
+i added a new line
+<<<<<<< HEAD
+=======
+This is test for merging.
+Another line for second commit
+
+
+Another line added
+>>>>>>> 8b11e73 (another commit)
+>>>>>>> 7f9b07d (file added)
